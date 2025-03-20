@@ -20,15 +20,6 @@ I'm a web developer passionate about creating efficient, user-friendly, and visu
 
 ---
 
-## ⚡ GitHub Activity
-
-- 🔥 **Total Commits**: ![Commits](https://github-readme-stats.vercel.app/api?username=usamacodezee&include_all_commits=true&count_private=true&theme=radical)
-- 🛠️ **Pull Requests**: ![PRs](https://github-readme-stats.vercel.app/api?username=usamacodezee&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
-- 🐛 **Issues**: ![Issues](https://github-readme-stats.vercel.app/api?username=usamacodezee&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
-- 🌟 **Starred Repositories**: ![Stars](https://github-readme-stats.vercel.app/api?username=usamacodezee&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
-
----
-
 ## 🛠️ Languages & Tools
 
 ### **Languages**
