@@ -8,16 +8,6 @@ I'm a web developer passionate about creating efficient, user-friendly, and visu
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=usamacodezee&show_icons=true&theme=radical&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usamacodezee&layout=compact&theme=radical&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=usamacodezee&theme=radical)
-
----
-
-## 🚀 GitHub Achievements
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=usamacodezee&theme=radical&no-frame=true&margin-w=5)
-
 ---
 
 ## 🛠️ Languages & Tools
@@ -50,8 +40,7 @@ I'm a web developer passionate about creating efficient, user-friendly, and visu
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/usama-patel-173a11220)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/usamacodezee)
 
 ---
